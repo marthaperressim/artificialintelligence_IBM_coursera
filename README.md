@@ -1,4 +1,4 @@
-# IBM AI Professional Certificate @ Coursera (2020)
+# IBM Applied AI Professional Certificate @ Coursera (2020)
 https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai
 
 Total Workload: 60 hours.
